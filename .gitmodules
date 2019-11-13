@@ -1,0 +1,6 @@
+[submodule "themes/nebula"]
+	path = themes/nebula
+	url = https://github.com/Suolawangzai/hexo-theme-nebula
+[submodule "themes/snark"]
+	path = themes/snark
+	url = https://github.com/psharma04/hexo-theme-snark

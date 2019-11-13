@@ -1,0 +1,9 @@
+options:
+  spellcheck: true
+  lineNumbers: true
+  askImageFilename: true
+  imagePrefix: localstored-
+editor:
+  inputStyle: contenteditable
+  spellcheck: true
+  lineNumbers: true
