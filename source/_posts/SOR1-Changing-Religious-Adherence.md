@@ -67,3 +67,77 @@ date: 2019-11-12 17:39:00
   - Caused by events such as the Gaza War, rise of Al Qaeda and Islamic State
   - Increase in Hinduism, Islam and Buddhism
   - Total drop of over 30% in Christianity
+
+## Denominational Switching
+<table>
+  <tr>
+   <td>Catholic
+   </td>
+   <td>Protestant
+   </td>
+   <td>Eastern Orthodox
+   </td>
+  </tr>
+  <tr>
+   <td>Roman Catholic
+<p>
+Maronite Catholic
+<p>
+Eastern Catholic
+<p>
+Coptic Catholic
+<p>
+Byzantine Catholic
+   </td>
+   <td>Anglican
+<p>
+Uniting Church:
+<ul>
+
+<li>Presbyterian
+
+<li>Congregationalist
+
+<li>Methodist
+
+<p>
+Adventist
+<p>
+Baptist
+<p>
+Lutheran
+<p>
+Pentecostal
+<p>
+Calvinist (Reformed)
+<p>
+Evangelicalism
+<p>
+Salvation Army
+<p>
+Episcopal
+</li>
+</ul>
+   </td>
+   <td>Greek Orthodox
+<p>
+Coptic Orthodox
+<p>
+Armenian Orthodox
+<p>
+Russian Orthodox
+   </td>
+  </tr>
+</table>
+
+*   Protestants are most likely to switch denominations because they believe that the Bible is subjective, and are therefore able to interpret the nature of passages in their own way
+    *   Because of this, they can switch to a denomination that better suits their beliefs
+*   Catholics and Orthodox Christians are less likely to switch because they are more static in their beliefs
+    *   The Bible is considered a complete, objective and unchanging document and therefore they have not changed over the last 1500 years
+*   10% of all people who took part in the survey changed denominations in the past five years (between 2010 and 2015)
+    *   This increased to 17% when only surveying Protestants
+*   Pentecostalism is the fastest growing denomination (220000 in 2006 to 260500 in 2016)
+
+<blockquote>People no longer remain in a particular denomination simply because their parents and grandparents belonged to it or because they share the same ethnic background with other church members. </blockquote>
+
+![Reasons for denominational switching](/images/AFAITH.jpg)
