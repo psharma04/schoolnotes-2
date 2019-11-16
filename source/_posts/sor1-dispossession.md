@@ -4,9 +4,9 @@ comments: true
 date: 2019-11-08 19:51:03
 categories:
   - Year 12
-  - SOR1
+  - SOR
 tags:
-  - SOR1
+  - SOR
   - Year 12
   - Aboriginal Spirituality
 ---

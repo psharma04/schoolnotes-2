@@ -67,7 +67,7 @@ tags:
   3. Add the vectors: \\(-\vec{v}_1 + \vec{v}_2 = 225+160 = 415m/s\\)
   4. Positive is east, therefore the change in velocity is 415m/s East
 
-## Displacement, Speed and Velocity (WIP)
+## Displacement, Speed and Velocity
 - This section will explain the terms and concepts of RECTILINEAR (straight-line), such as position, distance, displacement, speed and velocity.
 ### Center of Mass
 - An object's motion is described in terms of their CENTER OF MASS, a single point which is the balance point of the object.
@@ -78,3 +78,8 @@ tags:
 ### Distance Travelled
 - Distance Travelled describes how far a body travels during a journey.
 - Distance is a scalar quantity and is measured in meters.
+
+## Displacement-Time Graphs
+- Displacement-time graphs can be used to summarise the motion of an object
+- The gradient of the graph at any point is the velocity at that point
+![Displacement Time graph example](https://cdn1.byjus.com/physics/2017/10/07053000/Distance-Time-Graph2.png)
