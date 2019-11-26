@@ -3,10 +3,10 @@ title: "SOR1: Religion And Beliefs in Australia post-1945"
 comments: true
 categories:
   - Year 12
-  - SOR1
+  - SOR
 tags:
   - Year 12
-  - SOR1
+  - SOR
   - Religion And Beliefs in Australia post-1945
 date: 2019-11-26 11:49:52
 ---
