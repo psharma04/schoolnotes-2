@@ -10,12 +10,7 @@ tags:
   - Religion And Beliefs in Australia post-1945
 date: 2019-11-26 11:49:52
 ---
-## Religion and Belief Systems in Australia Post-1945
-
-
 ## Contemporary Aboriginal Spirituality
-
-
 ### Aboriginal Spirituality as Determined by the Dreaming
 
 **Discuss how Aboriginal spirituality is determined by the Dreaming**
