@@ -76,10 +76,10 @@ _Separation from the land_
 
 *   _Terra Nullius_ – forced dispossession of Aboriginal people from the land
 *   Squatters denied access to waterholes, hunting grounds and sacred sites
-*   Private property 🡪 illegal to enter own ancestral territory – shot for doing so
+*   Private property \\(\rightarrow\\) illegal to enter own ancestral territory – shot for doing so
 *   Imported stock e.g. cows trampled the earth and muddied water holes, introduction of pests e.g. rabbits damaged the sacred landscape
-*   Separation from Dreaming lands 🡪 lost spirituality and totemic identity
-*   Spiritual despair 🡪 slow self destruction still existing today
+*   Separation from Dreaming lands \\(\rightarrow\\) lost spirituality and totemic identity
+*   Spiritual despair \\(\rightarrow\\) slow self destruction still existing today
 *   Populations died out or dramatically declined- disease, malnutrition, alcohol dependence
 *   Managing to live in a manner that closely resembles the traditional ways
 *   Managing to integrate some traditional beliefs into more European way of life
@@ -89,11 +89,11 @@ _Separation from kinship groups_
 
 
 *   Impossible to detach individuals from the wider community or the Dreaming family
-*   Dispossession of people from land 🡪 breakdown of the kinship system- isolated from ancestral territory and knowledge that had unified groups
+*   Dispossession of people from land \\(\rightarrow\\) breakdown of the kinship system- isolated from ancestral territory and knowledge that had unified groups
 *   Forced to forfeit their places of totemic identity and extended spiritual family
-*   Decline of indigenous language – 350-750 distinct dialects 🡪 less than 150
+*   Decline of indigenous language – 350-750 distinct dialects \\(\rightarrow\\) less than 150
 *   Many Dreaming stories and myths have died out
-*   Dispassion of land and kinship groups 🡪 breakdown in the authority of elders- rapidly hastening the separation of kinship groups
+*   Dispassion of land and kinship groups \\(\rightarrow\\) breakdown in the authority of elders- rapidly hastening the separation of kinship groups
 *   Without access to dreaming kin – lost ability to fulfil spiritual obligations =
 *   Could no longer unite with Dreaming family in ceremonies and rites
 
