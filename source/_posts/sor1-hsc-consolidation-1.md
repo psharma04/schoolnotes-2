@@ -26,7 +26,7 @@ _Kinship_
     *   Totem – a natural part of the region the clan originated from
     *   Represents the ongoing life force of the Dreaming – are used at ceremonies
     *   Unifies the clan under the spirit ancestor and creates a metaphysical connection with other clans bearing the same totem
-    *   Transcendent bond btw humans and their totem as well as a Dreaming kinship with other individuals bearing the same totem
+    *   Transcendent bond between humans and their totem as well as a Dreaming kinship with other individuals bearing the same totem
 *   Spirit ancestors:
     *   Expect the members of these kinship groups to fulfil certain obligations
     *   Required to obey tribal laws and beliefs and to subordinate individual interests to the greater good of the community
@@ -121,7 +121,7 @@ _Native Title_
 *   NT recognises the rights of Indigenous peoples in relation to the areas of land and water belonging to their particular ancestral tribes and the validity of Aboriginal territorial laws already existing prior to European settlement
 *   While not giving actual land ownership title to Indigenous peoples it allows some access to ancestral lands
 *   Facilitates use of land for spiritual and ceremonial etc
-*   Woodward Royal Commission – first gov’t inquiry to appreciate the crucial link btw Aboriginal spirituality and the land
+*   Woodward Royal Commission – first gov’t inquiry to appreciate the crucial link between Aboriginal spirituality and the land
 *   _Racial Discrimination Act 1975_ –minority racial groups entitled to the same privileges and rights
 *   _Aboriginal Land Rights Act 1976_ – endorsed limited recognition of Indigenous people’s rights to the land
 *   _Native Title Act_ gave official recognition to the Indigenous way of life, particularly its spiritual connection with the land prior to European settlement
@@ -429,12 +429,12 @@ _Immigration_
 
 *   Post 1945, the Christian face of Australian society changed dramatically due to the immigration of people fleeing Europe
 *   Migrant – huge boost to numbers of Roman Catholics and Eastern Orthodox adherents in Aus.
-*   Roman Catholicism boosted almost 6% btw 1947 and 1966
-*   Eastern Orthodox rose from 0.2% to 3% btw 1947 and 1981 – large influx of Greek immigrants
-*   Small influx of Jews – reflected as 0.3% to 0.5% btw 1933 to 1966
+*   Roman Catholicism boosted almost 6% between 1947 and 1966
+*   Eastern Orthodox rose from 0.2% to 3% between 1947 and 1981 – large influx of Greek immigrants
+*   Small influx of Jews – reflected as 0.3% to 0.5% between 1933 to 1966
 *   More recent waves of Jewish migration to Aus. – almost 17% of Jewish population arrived after 1980
 *   1976 – Islam became present in Aus. 0.3%
-*   Btw 1966 and 2006 Islamic population risen 69.4% due to immigration from Bosnia, Somalia and Ethiopia
+*   Between 1966 and 2006 Islamic population risen 69.4% due to immigration from Bosnia, Somalia and Ethiopia
 
 _Denominational switching_
 
@@ -476,7 +476,7 @@ _Secularism_
 *   Acknowledgement that unity in Christ outweighs the diversity in practice and beliefs in Christianity
 *   Developing opportunities to work, worship and dialogue together
 
-The National Council of Churches
+The National Council of Churches Australia (NCCA)
 
 
 
