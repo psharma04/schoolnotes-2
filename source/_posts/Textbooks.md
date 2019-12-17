@@ -27,5 +27,5 @@ tags:
 - [Link 1](https://anonfile.com/56RfFdF2nb/Software_Development_and_Design_The_Preliminary_Course_pdf)
 - [Link 2](https://share.dmca.gripe/gNYK4JFPLFIJtZju.pdf)
 
-### To request more books, or report takedowns, send an email to [takedown@intranet.pw](mailto:takedown@intranet.pw)
+### To request more books, or report takedowns, send an email to [takedowns@i2pmail.org](mailto:takedowns@i2pmail.org)
 ### All files are hosted by [Anonfile - Anonymous File Upload](https://anonfile.com) and [DMCA.gripe - Censorship-free file hosting](https://dmca.gripe)
