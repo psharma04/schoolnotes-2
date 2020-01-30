@@ -96,6 +96,13 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: snark
 
+plugins:
+- hexo-generator-robotstxt
+
+robotstxt:
+    sitemap: /sitemap.xml
+
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
@@ -162,3 +169,4 @@ admin:
   username: rbxii3
   password_hash: $2a$10$t2MVdYb43KsZTINSkbMY0eJSmdWHey9bTHlzNC0MflQN3DfbLUko6
   secret: mxX@pt3*mbE^*k2@KA2c7AKyYvQGs#rD7pE_^nQ+sd7H&pqdnuP5rLAM7!kVmA3_8_27Q^u-u^5#H6TLKe-kDcy+&7C+4jN%ky7HL_8CRKuSxA_QeZ$G^9W3&t+!SR^&R3bS?yj=BU=r%Qg!%Bdw2qWtd!htM^W6#@@98$Q3?zv6%j@YrRV2FVk7?kjZ?srD+A!YETr7?wTxEw+-g^G6rRHUQKztAv#?DquLjyTeFmC3*DNbgxVpXZVucv3^SN*-
+

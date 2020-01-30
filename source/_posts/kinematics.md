@@ -1,6 +1,6 @@
 ---
-title: "Physics Preliminary Module 1: Kinematics"
-date: 2019-10-22T19:18:05+11:00
+title: "Physics Module 1: Kinematics"
+date: 2020-01-29T19:18:05+11:00
 draft: false
 DiscussionId: physics-prelim-kinematics-1
 categories:
@@ -79,7 +79,31 @@ tags:
 - Distance Travelled describes how far a body travels during a journey.
 - Distance is a scalar quantity and is measured in meters.
 
-## Displacement-Time Graphs
+### Displacement
+- Displacement is the change in position of an object, and is represented by the symbol \\(\vec{s}\\)
+- Displacement considers only the starting point and ending point
+  - In other words, the displacement of an object is the straight-line distance between its start and end points
+- Displacement is calculated by subtracting the initial position from the final position
+- Displacement is a VECTOR and therefore must have a direction as well as a magnitude
+#### Displacement-Time Graphs
 - Displacement-time graphs can be used to summarise the motion of an object
 - The gradient of the graph at any point is the velocity at that point
 ![Displacement Time graph example](https://cdn1.byjus.com/physics/2017/10/07053000/Distance-Time-Graph2.png)
+
+## Speed and Velocity
+- Speed is the rate at which distance is travelled
+  - Speed is SCALAR
+- Velocity is the rate at which displacement changes
+  - Velocity is a VECTOR
+- Speed and velocity are both measured in \\(m/s^2\\)
+### Instantaneous Speed and Velocity
+- How fast an object is moving at a particular point in time
+- The instantaneous speed is ALWAYS equal to the magnitude of the instantaneous velocity
+### Average Speed and Velocity
+- Indication of how fast an object is moving over a period of time
+- Average Speed: \\(v_{av} = \frac{Distance Travelled}{Time Taken} = \frac{d}{\Delta t}\\)
+- Average Velocity: \\(\vec{v_{av}} = \frac{Distance Travelled}{Time Taken} = \frac{\vec{s}}{\Delta t}\\)
+
+## Converting between km/h and m/s
+- To convert km/h to m/s, divide by 3.6
+- To convert from m/s to km/h, multiply by 3.6
