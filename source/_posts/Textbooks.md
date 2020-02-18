@@ -5,10 +5,14 @@ date: 2019-12-15 20:35:48
 categories:
 tags:
 ---
-### Only use Link 2 if Link 1 is down (Link 2 is VERY LIMITED on bandwidth), and PLEASE REPORT IF LINK 1 IS DOWN!!!
+### Only use Link 2 if Link 1 is down (Link 2 is VERY LIMITED on bandwidth), and PLEASE REPORT IF EITHER LINK IS DOWN!!!
 ## Year 11
-### Maths Extension 1
-#### Maths in Focus 11 Extension 1
+### Mathematics
+#### Maths Standard
+##### Cambridge Mathematics Standard Year 11
+- [Link 1](https://anonfile.com/N8BaN2aeof/MSY11_Full_Book_pdf)
+#### Maths Extension 1
+##### Maths in Focus 11 Extension 1
 - [Link 1](https://anonfile.com/Bdi6GdF8n3/Maths_in_Focus_11_Mathematics_Extension_1_Student_Book_pdf)
 - [Link 2](https://share.dmca.gripe/9uMMznYBCXH8fyDi.pdf)
 
@@ -21,6 +25,10 @@ tags:
 #### Pearson Physics 11
 - [Link 1](https://anonfile.com/V9ZdF6Fen4/Pearson_Physics_11_NSW_pdf)
 - [Link 2](https://share.dmca.gripe/1R88h3dSXKyXDOB4.pdf)
+
+### Chemistry
+#### Pearson Chemistry 11
+- [Link 1](https://anonfile.com/hds3x8Xbn2/Pearson_Chemistry_11_NSW_pdf)
 
 ### Software Development and Design
 #### Software Development and Design, The Preliminary Course

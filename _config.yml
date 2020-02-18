@@ -96,8 +96,6 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: snark
 
-plugins:
-- hexo-generator-robotstxt
 
 robotstxt:
     sitemap: /sitemap.xml
