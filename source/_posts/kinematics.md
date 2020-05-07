@@ -107,4 +107,6 @@ date: 2020-01-29 08:18:05
 - To convert from m/s to km/h, multiply by 3.6
 
 ## SUVAT Equations
-![upload successful](/images/suvat-1.png)
+![Suvat equations - image](/images/suvat-1.png)
+- These can also be expressed with different subjects:
+![SUVAT Equations rearranged - Image](/images/suvat-rearranged1.png)
