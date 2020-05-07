@@ -1,6 +1,4 @@
----
-title: "Physics Module 1: Kinematics"
-date: 2020-01-29T19:18:05+11:00
+title: 'Physics Module 1: Kinematics'
 draft: false
 DiscussionId: physics-prelim-kinematics-1
 categories:
@@ -10,8 +8,8 @@ tags:
   - Kinematics
   - Year 11
   - Physics
+date: 2020-01-29 08:18:05
 ---
-
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
@@ -107,3 +105,6 @@ tags:
 ## Converting between km/h and m/s
 - To convert km/h to m/s, divide by 3.6
 - To convert from m/s to km/h, multiply by 3.6
+
+## SUVAT Equations
+![upload successful](/images/suvat-1.png)
