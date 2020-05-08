@@ -18,7 +18,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Draft", name: "draft", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Draft (True or False)", name: "draft", widget: "string"}
       - {label: "Categories (Year level and Subject)", name: "categories: ", widget: "string"}
       - {label: "Tags (Subject, Year Level, Topic)", name: "tags: ", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
