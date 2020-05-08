@@ -97,4 +97,5 @@ tags:
 - THe motion of the object will then be affected by friction, if it is present
 - The component of the weight force that acts ALONG THE SURFACE is given by
 > \\(\vec{F}=m\vec{g}\cdot sin\theta\\)
+ 
 ![diagram of the normal force acting on an inclined plane](/images/normal-force-3.png)
