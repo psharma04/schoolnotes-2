@@ -74,4 +74,3 @@ tags:
 ![Newton's third law diagram](/images/newtons-third-law-diagram.png)
 
 #### The Normal Force
-- 
