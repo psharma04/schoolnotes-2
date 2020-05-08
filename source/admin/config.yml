@@ -22,3 +22,8 @@ collections:
       - {label: "Categories (Year level and Subject)", name: "categories: ", widget: "string"}
       - {label: "Tags (Subject, Year Level, Topic)", name: "tags: ", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+site_url: https://schoolnotes.intranet.pw
+display_url: https://schoolnotes.intranet.pw
+logo_url: https://raw.githack.com/psharma04/hexo-theme-snark/master/source/img/maxresdefault.jpg
+
