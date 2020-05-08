@@ -44,6 +44,8 @@ tags:
 > For every action, there is an equal and opposite reaction
 > \\(\vec{F}_\text{AB}=-\vec{F}\_{\text{BA}}\\)
 - If object A pushes on object B with \\(x\\) Newtons of force, object B will push back on object A with \\(x\\) Newtons of force
+- \\(\vec{F}_\text{AB}\\) and \\(\vec{F}\_{\text{BA}}\\) are known as an *action-reaction pair*
+> Newton's third law only applies to forces acting on different objects
 
 <table><thead><tr><th>Action Vector</th><th>Reaction Vector</th></tr></thead><tbody><tr><td>
 
@@ -73,4 +75,26 @@ tags:
 
 ![Newton's third law diagram](/images/newtons-third-law-diagram.png)
 
-#### The Normal Force
+### The Normal Force
+- When a smaller object (object A) falls under the influence of a force (such as gravity) from a larger object (the Earth), the effective force on object A is easy to observe
+- The action force is the gravitational force of the Earth being exerted on object A
+- In this case, ignoring air resistance, object A will accelerate downward at \\(9.8m/s^2\\)
+- If object A is then placed at rest on the floor, the gravitational force \\(\vec{F}=m\vec{g}\\) is still acting on it, but it is at rest
+- According to Newton's first law, an object can only be at rest if all the forces acting on it are balanced, so there must be a force counteracting gravity
+- This is known as the *normal force* \\((\vec{F}_N)\\)
+![The normal force is perpendicular to the surfaces in contact](/images/normal-force-1.png)
+![If there is no contact between the objects, there is no normal force](/images/normal-force-2.png)
+- The normal force acts with the same magnitude as its reactant force, but perpendicular TO THE SURFACE THE OBJECT IS ON (this will be an important distinction later)
+- It is important to note that the normal force and the reaction force from the third law are NOT THE SAME!!!
+  - This is because the normal force and its opposite act on the same object, while Newton's third law acts on two different objects
+- Weight and the normal force do not make up an action-reaction pair, because they both act on the same object
+
+### The Inclined Plane
+- In previous examples of the normal force, the surface has been horizontal. However, an object can be placed on a surface that is tilted at angle \\(\theta\\) to the horizontal
+- Even on a tilted surface, \\(\vec{F}=m\vec{g}\\) still acts downwards
+- However, the normal force acts at right angles to the SURFACE, and will change in magnitude according to the following formula:
+> \\(\vec{F}_N=m\vec{g}\cdot cos\theta\\)
+- THe motion of the object will then be affected by friction, if it is present
+- The component of the weight force that acts ALONG THE SURFACE is given by
+> \\(\vec{F}=m\vec{g}\cdot sin\theta\\)
+![diagram of the normal force acting on an inclined plane](/images/normal-force-3.png)
