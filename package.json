@@ -15,7 +15,6 @@
     "@upupming/hexo-renderer-markdown-it-plus": "^2.0.2",
     "gulp-cli": "^2.2.0",
     "hexo": "^4.2.0",
-    "hexo-admin": "^2.3.0",
     "hexo-blog-encrypt": "^3.0.12",
     "hexo-clean-css": "^1.0.0",
     "hexo-deployer-git": "^2.1.0",
