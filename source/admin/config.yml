@@ -21,7 +21,7 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Draft (True or False)", name: "draft", widget: "string"}
       - {label: "Categories (Year level, Subject)", name: "categories", widget: "string"}
-      - {label: "Tags (Subject, Year Level, Topic)", name: "tags", widget: "list", allow_add: "true", default:[Physics, Year 11, Kinematics]}
+      - {label: "Tags (Subject, Year Level, Topic)", name: "tags", widget: "list", allow_add: "true", default:[Physics]}
       - {label: "Body", name: "body", widget: "markdown"}
 
 site_url: https://schoolnotes.intranet.pw
