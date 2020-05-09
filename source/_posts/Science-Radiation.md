@@ -1,4 +1,11 @@
-title: 'Science: Radiation'
+---
+title: "Science: Radiation"
+date: 2020-05-08T22:18:44.761Z
+draft: "false"
+"categories: ": Year 10 Science
+"tags: ": Science Year 10 Radiation
+---
+title: "Science: Radiation"
 author: Pranav Sharma
 tags:
   - Year 10
