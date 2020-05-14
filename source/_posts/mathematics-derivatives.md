@@ -13,12 +13,13 @@ tags:
 - [Derivation](#derivation)
   - [Rules (Copy into notes)](#rules-copy-into-notes)
   - [Common Graphs](#common-graphs)
-    - [Quadratic:](#quadratic)
-    - [Cubic:](#cubic)
-    - [Quartic:](#quartic)
-    - [Hyperbola:](#hyperbola)
+    - [Quadratic](#quadratic)
+    - [Cubic](#cubic)
+    - [Quartic](#quartic)
+    - [Hyperbola](#hyperbola)
     - [Exponentials other than \\(e^x \\)](#exponentials-other-than-\\e^x-\\)
-    - [\\(\ln \\):](#\\\ln-\\)
+    - [\\(\ln \\)](#\\\ln-\\)
+- [First Principle](#first-principle)
 
 <!-- /TOC -->
 - Calculus is the study of continous change
@@ -36,19 +37,19 @@ tags:
 - \\(ln(x)=\frac{1}{\ln(x)}\cdot \frac{1}{x}\\)
 
 ### Common Graphs
-#### Quadratic:
+#### Quadratic
 
 <iframe src="https://www.desmos.com/calculator/lgv3xt3hfq?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-#### Cubic:
+#### Cubic
 
 <iframe src="https://www.desmos.com/calculator/z3rhzpazao?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-#### Quartic:
+#### Quartic
 
 <iframe src="https://www.desmos.com/calculator/5cxzobappa?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-#### Hyperbola:
+#### Hyperbola
 
 <iframe src="https://www.desmos.com/calculator/yghldeidlg?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
@@ -56,7 +57,7 @@ tags:
 
 <iframe src="https://www.desmos.com/calculator/fhxymgf48e?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-#### \\(\ln \\):
+#### \\(\ln \\)
 
 <iframe src="https://www.desmos.com/calculator/9oq7db8if2?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
