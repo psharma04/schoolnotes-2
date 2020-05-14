@@ -9,4 +9,4 @@ tags:
   - Mathematics Advanced
 ---
 ## Rules
-- \\(f\prime (x)=\frac{dy}{dx}\\)
+- \\(f\prime (x)=\frac{dy}{dx}x=y\prime\\)
