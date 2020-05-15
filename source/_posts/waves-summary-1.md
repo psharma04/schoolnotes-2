@@ -34,4 +34,4 @@ date: 2020-03-06 09:09:00
 ### Measuring Mechanical Waves
 - Waves can be represented by displacement-distance graphs and displacement-time graphs.
 - The graph takes a sinusoidal shape (like a sine wave)
-![wave graph](http://www.excelatphysics.com/uploads/3/1/7/5/31758667/899675_orig.jpg)
+![Wave Graph](/images/waves-graph-1.jpg)
