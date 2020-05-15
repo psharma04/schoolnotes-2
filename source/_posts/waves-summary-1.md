@@ -30,6 +30,8 @@ date: 2020-03-06 09:09:00
   - In a longitudinal wave, particles move parallel to the direction of energy transfer.
 ![Source: https://www.onlinemathlearning.com/transverse-longitudinal-wave.html](https://www.onlinemathlearning.com/image-files/xlongitudinal-transverse-waves.png.pagespeed.ic.WnrEfZXg-R.png)
 ![upload successful](/images/image1.png)
-
+- [This simulation demonstrates a wave - PHET COLORADO](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html)
 ### Measuring Mechanical Waves
 - Waves can be represented by displacement-distance graphs and displacement-time graphs.
+- The graph takes a sinusoidal shape (like a sine wave)
+![wave graph](http://www.excelatphysics.com/uploads/3/1/7/5/31758667/899675_orig.jpg)
